@@ -1,0 +1,9 @@
+import closed_approximate_solutions_schr_odinger_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace closed_approximate_solutions_schr_odinger_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end closed_approximate_solutions_schr_odinger_lemma_canonical_lane_mathlib
+end HautevilleHouse
